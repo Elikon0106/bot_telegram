@@ -4,8 +4,8 @@ import openai
 import logging
 
 # Настройки токенов и API
-API_TOKEN = '7534281796:AAEbEPo84YCAuX3P28F_YgolVVEjFa4RI2Y'  # Замените на ваш токен
-OPENAI_API_KEY = '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'  # Замените на ваш OpenAI API ключ
+API_TOKEN = 'YPT'  # Замените на ваш токен
+OPENAI_API_KEY = 'YOAK'  # Замените на ваш OpenAI API ключ
 openai.api_key = OPENAI_API_KEY
 
 # Логирование
